@@ -46,3 +46,20 @@ Tenho conhecimento em **Java**, **Spring Boot**, **Python** , **Ruby** e **Javas
 
 ## 🌟 **Projetos em Destaque**
 
+### [**Cadastro de Aluno - Backend**](https://github.com/viniciusoliveira-27/cadastro-de-aluno-backend)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=viniciusoliveira-27&repo=cadastro-de-aluno-backend&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=fff&cache_bust=2)](https://github.com/viniciusoliveira-27/cadastro-de-aluno-backend)
+
+
+### [**Cadastro de Aluno - Frontend**](https://github.com/viniciusoliveira-27/cadastro-de-aluno-frontend)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=viniciusoliveira-27&repo=cadastro-de-aluno-frontend&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=fff&cache_bust=3)](https://github.com/viniciusoliveira-27/cadastro-de-aluno-frontend)
+
+### [**Projeto Página LoL**](https://github.com/viniciusoliveira-27/projeto-pagina-lol)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=viniciusoliveira-27&repo=projeto-pagina-lol&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=fff&cache_bust=6)](https://github.com/viniciusoliveira-27/projeto-pagina-lol)
+
+### [**Projeto API LoL**](https://github.com/viniciusoliveira-27/projeto-api-lol)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=viniciusoliveira-27&repo=projeto-api-lol&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=fff)](https://github.com/viniciusoliveira-27/projeto-api-lol)
+
+### [**Chess System em Java**](https://github.com/viniciusoliveira-27/chess-system-java)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=viniciusoliveira-27&repo=chess-system-java&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=fff&cache_bust=5)](https://github.com/viniciusoliveira-27/chess-system-java)
+
+
