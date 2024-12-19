@@ -5,7 +5,7 @@
 ## 👨‍💻 **Sobre mim**
 Sou formado em **Análise e Desenvolvimento de Sistemas** e estou no processo de transição de carreira, saindo da usinagem para tecnologia. Trabalhei anos como programador CNC, onde desenvolvi conceitos importantes para a área de **Back-end**.  
 
-Tenho conhecimento em **Java**, **Spring Boot**, **Python** , **Ruby** e **Javascript**. Atualmente, trabalho como **Freelancer**, desenvolvendo projetos com essas tecnologias.
+Tenho conhecimento em **Java**, **Spring Boot**, **Typescript** , **Ruby** e **Javascript**. Atualmente, trabalho como **Freelancer**, desenvolvendo projetos com essas tecnologias.
 
 ---
 
@@ -19,7 +19,7 @@ Tenho conhecimento em **Java**, **Spring Boot**, **Python** , **Ruby** e **Javas
 
 ### **Linguagens de Programação**
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)  
+![TypeScript](https://img.shields.io/badge/TypeScript-33D9D6?style=for-the-badge&logo=typescript)
 ![Ruby](https://img.shields.io/badge/Ruby-000?style=for-the-badge&logo=ruby&logoColor=CC342D)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
