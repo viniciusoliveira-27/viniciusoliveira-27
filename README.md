@@ -11,7 +11,6 @@ Tenho conhecimento em **Java**, **Spring Boot**, **Typescript** , **Ruby** e **J
 
 ## 🌐 **Conecte-se comigo**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/vinicius-oliveira-3061341b5/)  
-[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/viniciusribeiro.1/)
 
 ---
 
@@ -20,15 +19,18 @@ Tenho conhecimento em **Java**, **Spring Boot**, **Typescript** , **Ruby** e **J
 ### **Linguagens de Programação**
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java&logoColor=white)  
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
-![Ruby](https://img.shields.io/badge/Ruby-000?style=for-the-badge&logo=ruby&logoColor=CC342D)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=E34F26)  
+![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3&logoColor=1572B6)  
 
 
 ### **Frameworks e Ferramentas**
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-000?style=for-the-badge&logo=springboot)  
-![Gradle](https://img.shields.io/badge/Gradle-000?style=for-the-badge&logo=gradle)  
-![Maven](https://img.shields.io/badge/Maven-000?style=for-the-badge&logo=apachemaven)  
-![VS Code](https://img.shields.io/badge/VS%20Code-000?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+![NestJS](https://img.shields.io/badge/NestJS-000?style=for-the-badge&logo=nestjs&logoColor=E0234E)  
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)  
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=F05032)  
+![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js&logoColor=339933)  
+
 
 ### **Banco de Dados**
 ![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql)  
