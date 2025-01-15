@@ -5,7 +5,7 @@
 ## 👨‍💻 **Sobre mim**
 Sou formado em **Análise e Desenvolvimento de Sistemas** e estou no processo de transição de carreira, saindo da usinagem para tecnologia. Trabalhei anos como programador CNC, onde desenvolvi conceitos importantes para a área de **Back-end**.  
 
-Tenho conhecimento em **Java**, **Spring Boot**, **Typescript** , **Ruby** e **Javascript**. Atualmente, trabalho como **Freelancer**, desenvolvendo projetos com essas tecnologias.
+Tenho conhecimento em **Java**, **Spring Boot**, **Typescript** , **Javascript**, **NestJs** e **React**. Atualmente, trabalho como **Freelancer**, desenvolvendo projetos com essas tecnologias.
 
 ---
 
